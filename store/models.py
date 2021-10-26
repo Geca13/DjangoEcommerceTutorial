@@ -1,5 +1,4 @@
 from django.db import models
-from django.db.models.deletion import CASCADE
 from category.models import Category
 from django.urls import reverse
 
