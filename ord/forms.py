@@ -1,10 +1,10 @@
 from django import forms
-from .models import Order
+from .models import Ord
 
 
 class OrderForm(forms.ModelForm):
     class Meta:
-        model = Order
+        model = Ord
         fields = [
             'first_name',
             'last_name',
