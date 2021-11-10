@@ -27,7 +27,7 @@ SECRET_KEY = 'uyv%6nzroxqeb8d_!+k+efu^sck51mx3_s2)rv@hc1lenn3ub)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gecacart-env.eba-ixnmeeqc.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
